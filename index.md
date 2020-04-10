@@ -1,10 +1,10 @@
 ---
-layout: home
+layout: 主页
 permalink: "/"
-title: Athena Jekyll Theme
+title: BY13的个人博客
 
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+用来水文章的静态网页
 
 
